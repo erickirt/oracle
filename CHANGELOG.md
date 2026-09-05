@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.18.1 - 2026-09-05
 
 **Highlights:** More reliable browser uploads, strict remote-tab isolation, and broader support for ChatGPT's current thinking controls.
 
